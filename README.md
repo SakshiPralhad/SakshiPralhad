@@ -45,7 +45,69 @@
    <th> Completed ?</th>
    <th> Link </th>
  </tr>
-</table> 
+ <tr>
+  <th> Google Cybersecurity Professional's Certificate - Assets, Threats, and Vulnerabilities</th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+ <tr>
+  <th>Google Cybersecurity Professional's Certificate - Tools of the Trade: Linux and SQL</th>
+ <th> Completed ?</th>
+  <th> Link </th>
+  </tr>
+  <tr>
+  <th> Google Cybersecurity Professional's Certificate - Connect and Protect: Networks and Network Security </th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+<tr>
+  <th> Google Cybersecurity Professional's Certificate - Play It Safe: Manage Security Risks 
+</th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+<tr>
+  <th> Google Cybersecurity Professional's Certificate - Foundation of Cybersecurity
+</th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+<tr>
+  <th>INTERSHALA Android Studio
+</th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+<tr>
+  <th> INTERSHALA Web Development
+</th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+
+</table>
+<h3> Work Experience </h3>
+<table>
+ <tr>
+  <th>Company Name </th>
+  <th>Position </th>
+  <th>Responsibilities</th>
+ </tr>
+  <tr>
+  <th>Symphonix IT</th>
+  <th>Inter </th>
+  <th>Worked on different modules of company projects in IOT and Web Development </th>
+ </tr>
+  <tr>
+  <th>Hare Madhav Coaching Center </th>
+  <th>Volunteer Tutor </th>
+  <th>Facilitated group discussions and provided one-on-one tutoring sessions,
+Communicated effectively with students of diverse backgrounds and learning styles, and 
+Adapted teaching methods to accommodate individual needs and promote comprehension
+</th>
+ </tr>
+</table>
+
 <h3>Social</h3>
 <a href = "https://www.linkedin.com/in/sakshi-jagtap-7837771a8/"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToB5kZ3p6rX20iEz1XE6EaDhgGgSjEVOuRY8b2JDOyug&s" style = "width : 70px; height : 70px; display: inline-block;" ></a> 
 
