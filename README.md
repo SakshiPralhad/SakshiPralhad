@@ -38,7 +38,14 @@
  
    
  </table>
- 
+ <h3> Certifications </h3>
+<table>
+ <tr>
+  <th> Certification</th>
+   <th> Completed ?</th>
+   <th> Link </th>
+ </tr>
+</table> 
 <h3>Social</h3>
 <a href = "https://www.linkedin.com/in/sakshi-jagtap-7837771a8/"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToB5kZ3p6rX20iEz1XE6EaDhgGgSjEVOuRY8b2JDOyug&s" style = "width : 70px; height : 70px; display: inline-block;" ></a> 
 
