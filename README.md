@@ -20,7 +20,7 @@
    <th> DNS Expolration</th>
    <th>Python, Network security</th>
    <th> Kali linux </th>
-   <th> <a href = "https://github.com/SakshiPralhad/Projects/tree/main/DNSExploration "></a></th>
+   <th> <a href = "https://github.com/SakshiPralhad/Projects/tree/main/DNSExploration "> DNSExplorationFolder</a></th>
  </tr>
  <tr>
    <th> Risk Register</th>
