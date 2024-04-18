@@ -32,7 +32,7 @@
    <th>Network Incident Analysis </th>
    <th> Skills</th>
    <th> Tools</th>
-   <th> <a href = " https://github.com/SakshiPralhad/NetworkIncidentAnalysis">NetwokIncidentAnalysis Report</th>
+   <th> <a href = " https://github.com/SakshiPralhad/NetworkIncidentAnalysis">NetwokIncidentAnalysis Report</a></th>
  </tr>
  
  
