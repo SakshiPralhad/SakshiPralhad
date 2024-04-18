@@ -14,7 +14,7 @@
    <th>Port Scanning</th>
    <th> Python, Network Security</th>
    <th> Kali Linux</th>
-   <th>PortScan.py</th>
+   <th><a href = "https://github.com/SakshiPralhad/Projects/blob/main/PortScan.py"> PortScan.py</a></th>
  </tr>
  <tr>
    <th> DNS Expolration</th>
