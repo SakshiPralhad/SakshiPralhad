@@ -11,10 +11,10 @@
    <th> Links</th>
  </tr>
  <tr>
-   <th>Network Scanning</th>
+   <th>Port Scanning</th>
    <th> Python, Network Security</th>
    <th> Kali Linux</th>
-   <th> Links</th>
+   <th>PortScan.py</th>
  </tr>
  <tr>
    <th> DNS Expolration</th>
