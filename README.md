@@ -30,8 +30,8 @@
  </tr>
  <tr>
    <th>Network Incident Analysis </th>
-   <th> Skills</th>
-   <th> Tools</th>
+   <th> NIST Cybersecurity Framework</th>
+   <th> Google Docs</th>
    <th> <a href = "https://github.com/SakshiPralhad/NetworkIncidentAnalysis" > NetwokIncidentAnalysis</a></th>
  </tr>
  
