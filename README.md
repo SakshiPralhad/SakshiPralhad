@@ -59,6 +59,18 @@
    <th> <a href = "https://github.com/SakshiPralhad/RiskRegister">Risk Register</a></th>
  </tr>
  <tr>
+   <tr>
+  <th> Security Investigation System</th>
+   <th> SQL Database, SQL Queries</th>
+   <th> Linux Terminal, Google Docs </th>
+   <th><a href="https://github.com/SakshiPralhad/SqlQueries">Security Investigation System</a></th>
+ </tr>
+   <tr>
+  <th> Use Linux commands to manage file permissions</th>
+   <th> Linux Commands</th>
+   <th> Linux Terminal, Google Docs</th>
+   <th><a href="https://github.com/SakshiPralhad/Linux-File-Permission-">Use Linux commands to manage file permissions</a></th>
+ </tr>
    <th>Network Incident Analysis </th>
    <th> NIST Cybersecurity Framework</th>
    <th> Google Docs</th>
