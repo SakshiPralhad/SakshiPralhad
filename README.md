@@ -95,42 +95,42 @@
  </tr>
  <tr>
   <th> Google Cybersecurity Professional's Certificate - Assets, Threats, and Vulnerabilities</th>
-   <th> Completed ?</th>
-   <th> Link </th>
+   <th> Apr 15, 2024</th>
+   <th><a href = "https://drive.google.com/file/d/1Vaf-q6xD_4lqHeMtNanwmRboxzSAuDp4/view?usp=sharing">Assets, Threats, and Vulnerabilities</a> </th>
  </tr>
  <tr>
   <th>Google Cybersecurity Professional's Certificate - Tools of the Trade: Linux and SQL</th>
- <th> Completed ?</th>
-  <th> Link </th>
+ <th> Mar 10, 2024</th>
+  <th><a href="https://drive.google.com/file/d/1k2qBbCF47iYcHz41COE2Zeoy575sTioQ/view?usp=sharing">Tools of the Trade: Linux and SQL</a></th>
   </tr>
   <tr>
   <th> Google Cybersecurity Professional's Certificate - Connect and Protect: Networks and Network Security </th>
-   <th> Completed ?</th>
-   <th> Link </th>
+   <th> Oct 1, 2023</th>
+   <th> <a href = "https://drive.google.com/file/d/1rCYcyfgyRwWAROTgbJ4nh9Gg2Dly7FfT/view?usp=sharing">Connect and Protect: Networks and Network Security</a> </th>
  </tr>
 <tr>
   <th> Google Cybersecurity Professional's Certificate - Play It Safe: Manage Security Risks 
 </th>
-   <th> Completed ?</th>
-   <th> Link </th>
+   <th>Aug 8, 2023</th>
+   <th><a href = "https://drive.google.com/file/d/1JDt_Vyo1q_9hY42sr76w9pCICdq80Zch/view?usp=sharing">Play It Safe: Manage Security Risks </a></th>
  </tr>
 <tr>
   <th> Google Cybersecurity Professional's Certificate - Foundation of Cybersecurity
 </th>
-   <th> Completed ?</th>
-   <th> Link </th>
+   <th>Jul 16,  2023</th>
+   <th><a href="https://drive.google.com/file/d/1-l5-5EWgquCkmufHJn76C3SX2eesYfIc/view?usp=sharing"> Foundation of Cybersecurity</a> </th>
  </tr>
 <tr>
   <th>INTERSHALA Android Studio
 </th>
-   <th> Completed ?</th>
-   <th> Link </th>
+   <th> Dec 10, 2021</th>
+   <th> <a href="https://drive.google.com/file/d/1O2ea-YOQ4qS4x7syMPyxZlywUg-q7Qrb/view?usp=sharing">Android App Development</a> </th>
  </tr>
 <tr>
   <th> INTERSHALA Web Development
 </th>
-   <th> Completed ?</th>
-   <th> Link </th>
+   <th> Nov 7, 2020</th>
+   <th> <a href = "https://drive.google.com/file/d/1cSzM_jH_ewin2YZTY_Aatm2HgsqEehla/view?usp=sharing">Web Development</a> </th>
  </tr>
 
 </table>
