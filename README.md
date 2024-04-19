@@ -35,22 +35,22 @@
    <th> <a href="https://github.com/SakshiPralhad/VulnerableAssessment">Vulnerability Assessment and Remidiation Plan</a></th>
  </tr>
   <tr>
-  <th> Project</th>
-   <th> Skills</th>
-   <th> Tools</th>
-   <th> Links</th>
+  <th>USB Drive Attack Vector Assessment</th>
+   <th>USB Baiting, Attacker mindset, Risk Analysis</th>
+   <th> Google Docs</th>
+   <th><a href="https://github.com/SakshiPralhad/USBBaiting">USB Drive Attack Vector Assessment</a></th>
  </tr>
   <tr>
-  <th> Project</th>
-   <th> Skills</th>
-   <th> Tools</th>
-   <th> Links</th>
+  <th> Access Control Assessment and Security Enhancement</th>
+   <th> Identity and Access Management (IAM)</th>
+   <th>Google Docs</th>
+   <th><a href="https://github.com/SakshiPralhad/AccessControl">Access Control Assessment and Security Enhancement</a></th>
  </tr>
   <tr>
-  <th> Project</th>
-   <th> Skills</th>
-   <th> Tools</th>
-   <th> Links</th>
+  <th> Data Risk Assessment and Information Privacy Enhancementt</th>
+   <th> Information Privacy, Compliance Regulations, Security Assessment and Audits</th>
+   <th>Google Docs</th>
+   <th><a href="https://github.com/SakshiPralhad/DataLeak">Data Risk Assessment and Information Privacy Enhancement</a></th>
  </tr>
  <tr>
    <th> Risk Register</th>
