@@ -22,11 +22,41 @@
    <th> Kali linux </th>
    <th> <a href = "https://github.com/SakshiPralhad/Projects/tree/main/DNSExploration "> DNSExplorationFolder</a></th>
  </tr>
+  <tr>
+  <th> Threat Modeling and Risk Assessment</th>
+   <th> Process of Attack Simulation and Threat Analysis (PASTA) framework</th>
+   <th>Google Docs</th>
+   <th> <a href = "https://github.com/SakshiPralhad/PASTAFramework">Threat Modeling and Risk Assessment</a></th>
+ </tr>
+  <tr>
+  <th> Vulnerability Assessment and Remidiation Plan</th>
+   <th>Vulnerability Assessments </th>
+   <th> Google Docs</th>
+   <th> <a href="https://github.com/SakshiPralhad/VulnerableAssessment">Vulnerability Assessment and Remidiation Plan</a></th>
+ </tr>
+  <tr>
+  <th> Project</th>
+   <th> Skills</th>
+   <th> Tools</th>
+   <th> Links</th>
+ </tr>
+  <tr>
+  <th> Project</th>
+   <th> Skills</th>
+   <th> Tools</th>
+   <th> Links</th>
+ </tr>
+  <tr>
+  <th> Project</th>
+   <th> Skills</th>
+   <th> Tools</th>
+   <th> Links</th>
+ </tr>
  <tr>
    <th> Risk Register</th>
    <th>NIST Cybersecurity Framework</th>
    <th>Google Docs</th>
-   <th> Links</th>
+   <th> <a href = "https://github.com/SakshiPralhad/RiskRegister">Risk Register</a></th>
  </tr>
  <tr>
    <th>Network Incident Analysis </th>
