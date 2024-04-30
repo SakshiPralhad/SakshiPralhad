@@ -47,7 +47,7 @@
    <th><a href="https://github.com/SakshiPralhad/AccessControl">Access Control Assessment and Security Enhancement</a></th>
  </tr>
   <tr>
-  <th> Data Risk Assessment and Information Privacy Enhancementt</th>
+  <th> Data Risk Assessment and Information Privacy Enhancement</th>
    <th> Information Privacy, Compliance Regulations, Security Assessment and Audits</th>
    <th>Google Docs</th>
    <th><a href="https://github.com/SakshiPralhad/DataLeak">Data Risk Assessment and Information Privacy Enhancement</a></th>
