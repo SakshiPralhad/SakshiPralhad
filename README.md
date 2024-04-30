@@ -29,10 +29,10 @@
    <th> <a href = "https://github.com/SakshiPralhad/PASTAFramework">Threat Modeling and Risk Assessment</a></th>
  </tr>
   <tr>
-  <th> Vulnerability Assessment and Remidiation Plan</th>
+  <th> Vulnerability Assessment and Remediation Plan</th>
    <th>Vulnerability Assessments </th>
    <th> Google Docs</th>
-   <th> <a href="https://github.com/SakshiPralhad/VulnerableAssessment">Vulnerability Assessment and Remidiation Plan</a></th>
+   <th> <a href="https://github.com/SakshiPralhad/VulnerableAssessment">Vulnerability Assessment and Remediation Plan</a></th>
  </tr>
   <tr>
   <th>USB Drive Attack Vector Assessment</th>
