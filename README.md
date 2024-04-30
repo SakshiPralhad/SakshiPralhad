@@ -17,7 +17,7 @@
    <th><a href = "https://github.com/SakshiPralhad/Projects/blob/main/PortScan.py"> PortScan.py</a></th>
  </tr>
  <tr>
-   <th> DNS Expolration</th>
+   <th> DNS Exploration</th>
    <th>Python, Network security</th>
    <th> Kali linux </th>
    <th> <a href = "https://github.com/SakshiPralhad/Projects/tree/main/DNSExploration "> DNSExplorationFolder</a></th>
